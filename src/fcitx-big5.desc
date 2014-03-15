@@ -1,0 +1,7 @@
+[DescriptionFile]
+LocaleDomain=fcitx-big5
+
+[Big5/Hotkey]
+Type=Hotkey
+DefaultValue=CTRL_SHIFT_B
+Description=Toggle for BIG5 code

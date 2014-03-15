@@ -1,0 +1,8 @@
+[FcitxAddon]
+Name=fcitx-big5
+Prefix=Big5
+Include0="big5.h"
+Function0=
+Function1=
+Function2=
+Self.Type=FcitxBig5*

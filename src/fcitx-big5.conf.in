@@ -1,0 +1,10 @@
+[Addon]
+Name=fcitx-big5
+_GeneralName=Big5 Addon of Fcitx
+_Comment=
+Category=Module
+Enabled=True
+Library=fcitx-big5.so
+Type=SharedLibrary
+Dependency=
+Priority=80
